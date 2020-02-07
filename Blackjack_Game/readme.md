@@ -20,3 +20,6 @@ The Final Project was designed to incorporate all skills students learned throug
 8. Inlcude a class that you create
 9. Include an array or ArrayList
 10. Include either reading data from a text file or writing data to a text file
+
+
+The grade received for this project was 100/100 points
