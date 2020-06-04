@@ -1,5 +1,7 @@
 # Outdoor Garden App (In Progress)
 
+As a hobby gardener, I've never truly been satisfied with the features provided through available gardening apps. This project will be an attempt to consolidate and expand upon databases and tools that assist the gardening enthusiast.  
+
 ## Goals:
 ### Provide data on plants
 	1. Filter by plant, habit, type, and variety (ex: tomato, indeterminate, beefsteak, Paul Robeson)
@@ -30,3 +32,4 @@
 	4. Air temperature
 	5. Sunlight
 	6. Arduino controlled water valve
+### Expand database to include trees and flowers
