@@ -8,15 +8,15 @@ As a hobby gardener, I've never been truly satisfied with the features provided 
 	2. General information (ex: scientific name, average yield/time, nutritional needs, spacing requirements, common diseases/pests, etc.)
 	3. Variety information (ex: Paul Robeson tomato, flavor profile, individual yield time, etc.)
 ### Provide data on growing season
-	1. Dates of first and last frost (average from Farmer's Almanac vs. data of last 5 years)
-	2. When to start seeds indoors and/or outdoors based on zone/zip code
-	3. Send notifications/set calendar reminders about when to plant/harvest
+	1. Determine growing zone based on user location data
+	2. Dates of first and last frost (average from Farmer's Almanac vs. data of last 5 years)
+	3. When to start seeds indoors and/or outdoors based on zone/zip code
+	4. Push notifications/set calendar reminders about when to plant/harvest
 ### Curate list of plants in personal garden
-	1. Bookmark plants from dropdown menu selections
-	2. Plants that user would like to grow
-	3. Plants that have been started
-	4. Plants that are currently in the ground
-	5. Plants that will be started as season progresses/succession planting
+	1. Bookmark/favorite plants from dropdown menu selections
+	2. Add plants to wishlist, plan to grow, growing this year lists
+	3. Separate buttons to favorite and update plant progress dd/mm/yyyy (seed planted, first sprout, planted on, harvested on, etc.)
+	4. Previous garden data for reference/"This is your first time growing this plant!"
 ### Water requirements
 	1. Pull weather data on daily rainfall and temperature
 	2. Determine if received water/week meets average needs
