@@ -15,7 +15,7 @@ As a hobby gardener, I've never been truly satisfied with the features provided 
 ### Curate list of plants in personal garden
 	1. Bookmark/favorite plants from dropdown menu selections
 	2. Add plants to wishlist, plan to grow, growing this year lists
-	3. Separate buttons to favorite and update plant progress dd/mm/yyyy (seed planted, first sprout, planted on, harvested on, etc.)
+	3. Separate buttons to favorite and update plant progress dd/mm/yyyy (seed planted, first sprout, in garden, harvested, etc.)
 	4. Previous garden data for reference/"This is your first time growing this plant!"
 ### Water requirements
 	1. Pull weather data on daily rainfall and temperature
