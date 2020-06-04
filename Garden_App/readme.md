@@ -1,6 +1,6 @@
 # Outdoor Garden App (In Progress)
 
-As a hobby gardener, I've never truly been satisfied with the features provided through available gardening apps. This project will be an attempt to consolidate and expand upon databases and tools that assist the gardening enthusiast.  
+As a hobby gardener, I've never been truly satisfied with the features provided through available gardening apps. This project will be an attempt to consolidate and expand upon databases and tools that assist the gardening enthusiast.  
 
 ## Goals:
 ### Provide data on plants
