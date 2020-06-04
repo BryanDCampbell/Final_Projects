@@ -1,4 +1,4 @@
-# Outdoor Garden App Project
+# Outdoor Garden App Project (In Progress)
 
 ## Goals:
 ### Provide data on plants
