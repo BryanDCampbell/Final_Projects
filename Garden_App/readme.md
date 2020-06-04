@@ -2,7 +2,7 @@
 
 ## Goals:
 ### Provide data on plants
-	1. Filter by plant, habit, type, then variety (ex: tomato, determinate/indeterminate, roma/cherry/grape/beefsteak, Paul Robeson)
+	1. Filter by plant, habit, type, then variety (ex: tomato, indeterminate, beefsteak, Paul Robeson)
 	2. General information (ex: what is a tomato, average yield time, nutritional needs, etc.)
 	3. Variety information (ex: Paul Robeson tomato, flavor profile, individual yield time, etc.)
 ### Provide data on growing season
