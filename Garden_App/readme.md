@@ -5,7 +5,7 @@ As a hobby gardener, I've never been truly satisfied with the features provided 
 ## Goals:
 ### Provide data on plants
 	1. Filter by plant, habit, type, and variety (ex: tomato, indeterminate, beefsteak, Paul Robeson)
-	2. General information (ex: what is, average yield/time, nutritional needs, spacing requirements, common diseases/pests, etc.)
+	2. General information (ex: scientific name, average yield/time, nutritional needs, spacing requirements, common diseases/pests, etc.)
 	3. Variety information (ex: Paul Robeson tomato, flavor profile, individual yield time, etc.)
 ### Provide data on growing season
 	1. Dates of first and last frost (average from Farmer's Almanac vs. data of last 5 years)
