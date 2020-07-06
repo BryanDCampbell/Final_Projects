@@ -1,4 +1,4 @@
-# Outdoor Garden App (In Progress)
+# Outdoor Garden App (Planning)
 
 As a hobby gardener, I've never been truly satisfied with the features provided through available gardening apps. This project will be an attempt to consolidate and expand upon databases and tools that assist the gardening enthusiast.  
 
